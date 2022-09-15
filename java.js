@@ -111,10 +111,12 @@ lista.pop();
 console.log(lista);
 
 
-let valori = [4,3,9,7,44,3,84];
-valori.indexOf((3));
-valori.lastIndexOf((3));
 
+
+let valori = [4,3,9,7,44,3,84];
+let valoriAggiunti = valori.indexOf((3));
+
+console.log(valoriAggiunti);
 console.log(valori);
 
 // chiedere perchè non ti fa vedere la posizione dell'elemento richiesto
