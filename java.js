@@ -134,6 +134,10 @@ console.log(alert);
 
 
 
+function randomNumber()
+
+
+
 
 
 
